@@ -7,11 +7,11 @@ SMS-Spam-Classifier is a web app, build on python, that will detect the message 
 2) Data Cleaning
 3) Exploratory Data Analysis(EDA)
 4) Data Preprocessing
-  -> Lower case
-  -> Tokenization
-  -> Removing special characters
-  -> Removing stop words and puctuations
-  -> Stemming
+-> Lower case
+-> Tokenization
+-> Removing special characters
+-> Removing stop words and puctuations
+-> Stemming
 5) Model Building, Model Training and Model Evaluation
 6) Web App for user interface
 

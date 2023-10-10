@@ -1,6 +1,6 @@
 ## SMS-Spam-Classifier:
 # Introduction:
-SMS-Spam-Classifier is a web app, build on python, that will detect the message is either spam or ham. In our daily life frauds are increasing very rapidly through promotion texts. Many common people are trapped in this rash situation, so this web app will detect that either this message is spam or ham, for the protection of common people. In this app, we have trained a machine learning model with approximately 5000 messages to predict either the given message is spam or ham. We have used multinomial naive based algorithm because this algorithm have high precision as compared to the Gussian Naive Based and Bernoulli Naive Based Algorithm.
+SMS-Spam-Classifier is a web app, build on python, that will detect the message is either spam or ham. In our daily life frauds are increasing very rapidly through promotion texts. Many common people are trapped in this rash situation, so this web app will detect that either this message is spam or ham, for the protection of common people. In this app, we have trained a machine learning model with approximately 5000 messages to predict either the given message is spam or ham. We have used multinomial naive based algorithm because this algorithm have high precision as compared to the Guassian Naive Based and Bernoulli Naive Based Algorithm.
 
 # This project involves:
 1) Data Collection

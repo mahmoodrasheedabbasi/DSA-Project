@@ -15,7 +15,7 @@ SMS-Spam-Classifier is a web app, build on python, that will detect the message 
 5) Model Building, Model Training and Model Evaluation
 6) Web App for user interface
 
-# Python Libraries That we have used:
+# Python libraries that we have used:
 1) Numpy (for numerical operations)
 2) Pandas (for data analysis)
 3) Matplotlib (for EDA)
